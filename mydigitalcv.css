@@ -1,0 +1,71 @@
+
+html{
+    font-size: 16px; /*setting 16px as the root font size to allow for variety in the body*/
+
+    font-family: "Vollkorn", sans-serif, monospace; /* Vollkorn seems fitting for the calm and welcoming feeling I'm trying to add */
+
+    line-height: 2; /* setting 2 as the line height because this gives a spacious feel*/
+
+    background-color: #e6d5be; /* choosing this as the backgroundc color because it reminds me of sand on the beach... very calming*/
+    
+    color: #192A41 ; /* made the text color complimentary but also bold enough to stand out against the background*/
+}
+
+/* styling the heading */
+h1{
+    text-align: center; 
+
+    text-shadow: 3px 5px 5px #233754;
+
+    text-decoration: underline;
+
+    font-size: 5rem;
+
+    font-weight: bold;
+    
+}
+
+/* styling the sub-headings */
+h2{
+    text-align: center;
+
+    font-weight: bold;
+    
+    font-size: 4rem;
+}
+
+/* styling the sub-headings */
+h3{
+    font-size: 3rem;
+
+    font-weight: bold;
+}
+
+
+/* styling the anchors */
+a{
+    text-decoration: none;
+}
+
+/* styling the paragraphs */
+p{
+    font-size: 1.6rem;
+}
+
+/* styling the lists */
+li{
+    font-size: 1.5rem;
+}
+
+/* styling the tables */
+table{
+    
+
+    font-size: 1.5rem;
+}
+
+/* styling the forms */
+form{
+    font-size: 1rem;
+
+}
